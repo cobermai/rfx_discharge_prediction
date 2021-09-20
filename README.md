@@ -8,7 +8,8 @@ Consorzio RFX.
 
 ### Data
 
-Download data from pernkopf@rfxssh.igi.cnr.it (/mnt/N41a/scratch/rigoni/hvptf)
+Download data with scp pernkopf@rfxssh.igi.cnr.it:/mnt/N41a/scratch/rigoni/hvptf /path/to/local/file 
+Contact Christoph Obermair to get access information.
 
 ### Project Organization
 The following project skeleton is used for the project.
